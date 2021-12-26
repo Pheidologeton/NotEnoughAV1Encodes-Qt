@@ -1,5 +1,6 @@
-# NotEnoughAV1Encodes-Qt
+# NotEnoughAV1Encodes-Qt-git-AUR
 Linux GUI for AV1 Encoders - aomenc, rav1e & svt-av1
+
 
 For Windows users check out the non Qt version: [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes)
 
@@ -45,8 +46,11 @@ For Windows users check out the non Qt version: [NotEnoughAV1Encodes](https://gi
 - [X] Clear temp files after encode
 - [X] Logging
 
-
+Author (Alkl58)
 #### Supporting me
 PayPal: paypal.me/alkl58
-
 Monero: 46k9vyT84U3gFZsr9oH8fbLGm6avBeY651F2c166BQ8E7eHeEhVvDujjAzBjHK2xDVaxGPav7bQbZJSpvoQm2D5XGnbRUhF
+Maintainer
+####
+Bitcoin: bc1qdzdawkgaafds5ddz706rjxawlajamh0zrxzkda
+Ethereum: 0x4F67e0b4C7e6FA9EADF3a713a1209c1d376ad950
